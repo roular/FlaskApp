@@ -1,0 +1,70 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:order
+- i want to order a pizza
+- i want to get a large burger
+- order me one pepsi
+- two pepsi please
+
+## intent:travel
+- ticket please
+- emmigration application
+- go to the train station
+- go to the airport
+- I want to fly from [Berlin]{"entity": "city", "role": "departure"} to [America]{"entity": "city", "role": "destination"}.
+- I want to travel from [Beirut]{"entity": "city", "role": "departure"} to [Tripoli]{"entity": "city", "role": "destination"}.
